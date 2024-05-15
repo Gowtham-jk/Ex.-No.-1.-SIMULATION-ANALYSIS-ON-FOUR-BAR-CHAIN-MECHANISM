@@ -53,10 +53,11 @@
 
 
 ## Output:
+![empd exp 1 op](https://github.com/Gowtham-jk/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149857834/45fdb9d8-6189-47fc-88ed-db729b33fb79)
 
 
-### Name:
-### Register Number: 
+### Name:Gowtham.V
+### Register Number: 212223100009
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
